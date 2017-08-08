@@ -8,7 +8,7 @@ analyst has to identify malicious applications among hundreds of legitimate ones
 
 This code is part of an article published by Kudelski Security in August, 2017. The full article can
 be found here:
-[https://research.kudelskisecurity.com/2017/08/07/checking-android-for-known-malware](https://research.kudelskisecurity.com/2017/08/07/checking-android-for-known-malware)
+[https://research.kudelskisecurity.com/2017/08/08/checking-your-android-device-for-known-malware/](https://research.kudelskisecurity.com/2017/08/08/checking-your-android-device-for-known-malware/)
 
 # Requirements
 
